@@ -9,7 +9,7 @@ package meseleler.pkg19;
  *
  * @author 99470
  */
-public class mesele219 {
+public class mesele2_19 {
 
     /**
      * @param args the command line arguments
